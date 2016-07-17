@@ -9,7 +9,7 @@
 ![uploadvideo](http://chuantu.biz/t5/18/1468740937x3738746535.png)<br>
 添加图片和字幕并改变他们的大小和显示位置
 ![addimg](http://chuantu.biz/t5/18/1468741730x3738746535.png)<br>
-![addtext](http://chuantu.biz/t5/18/1468741760x3738746535.png)<br>
+![addtext](http://chuantu.biz/t5/19/1468752667x3738746559.png)<br>
 2.媒体界面<br>
 ![media](http://chuantu.biz/t5/18/1468740225x3738746535.png) <br>
 3.视频<br>
