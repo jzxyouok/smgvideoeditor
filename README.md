@@ -1,5 +1,6 @@
 # smgvideoeditor
 上海smg传媒公司web视频编辑项目 <br>
+<h5>HTML5视频播放器及麦克风录音</h5>  <br>
 效果图：<br>
 1.首页<br>
 ![ABC](http://chuantu.biz/t5/18/1468737552x3738746535.png) <br>
