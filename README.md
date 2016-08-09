@@ -3,7 +3,7 @@
 <h5>HTML5视频播放器及麦克风录音</h5>  <br>
 效果图：<br>
 1.首页<br>
-![ABC](http://chuantu.biz/t5/26/1470752953x3738746583.png) <br>
+![ABC](http://chuantu.biz/t5/26/1470753233x3738746583.png) <br>
 编辑页面<br>
 ![ABC](http://chuantu.biz/t5/18/1468740774x3738746535.png) <br>
 上传视频并出现预览图以及获取本地麦克风录音并转换为MP3格式音频文件 <br>
