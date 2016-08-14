@@ -1,5 +1,5 @@
 # smgvideoeditor
-上海smg传媒公司web视频编辑项目 <br>
+上海smg传媒公司web视频编辑项目 (项目代码有解压密码)<br>
 <h5>HTML5视频播放器及麦克风录音</h5>  <br>
 效果图：<br>
 1.首页<br>
